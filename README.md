@@ -1,11 +1,11 @@
-# BCM Human-Input PCB
+# BCM Button Analysis PCB
 
 A compact 2-layer PCB developed for anticipation-based clinical studies at Baylor College of Medicine. Designed for low-noise human-input capture with sub-100 ms latency and reliable USB serial output.
 
 ## Hardware Overview
 - **MCU:** ATmega32U4 (native USB)
 - **Inputs:**
-  - BNC connectors for shielded photoresistor signal input and signal output
+  - BNC connectors for shielded photoresistor signal input and signal output to oscilloscope
   - Terminal blocks for buttons
 - **Power:** USB 5V with onboard regulation
 - **PCB:** 2-layer, KiCAD design, ~20 components assembled
