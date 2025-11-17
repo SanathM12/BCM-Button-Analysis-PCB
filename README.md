@@ -5,8 +5,8 @@ A compact 2-layer PCB developed for anticipation-based clinical studies at Baylo
 ## Hardware Overview
 - **MCU:** ATmega32U4 (native USB)
 - **Inputs:**
-  - BNC connectors for shielded signal input
-  - Terminal blocks for buttons, sensors, and triggers
+  - BNC connectors for shielded photoresistor signal input and signal output
+  - Terminal blocks for buttons
 - **Power:** USB 5V with onboard regulation
 - **PCB:** 2-layer, KiCAD design, ~20 components assembled
 - **Purpose:** Stable, low-latency human-input acquisition
